@@ -37,3 +37,20 @@ The goal is to analyze match outcomes, player performances, and team statistics 
    ```bash
    git clone https://github.com/yourusername/IPL-EDA.git
    cd IPL-EDA
+   ```
+2. Install dependencies  
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Open Jupyter Notebook  
+   ```bash
+   jupyter notebook Capstone_Project.ipynb
+   ```
+
+## 📌 Future Improvements
+- Add predictive modeling (e.g., win prediction).
+- Build interactive dashboards (Streamlit/Plotly).
+- Automate dataset updates with newer IPL seasons.
+
+## 🏏 Author
+- **Your Name** – Aspiring Data Analyst | Python, Pandas, Data Visualization
